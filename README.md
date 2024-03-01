@@ -37,4 +37,4 @@ Se hai fatto tutto bene fino ad ora...
 
 
 # Cosa succede se i prof aggiornano il repo mettendo nuovi contenuti?
-* **_Aggiorno il mio repo locale con l'ultima "versione" di quello remoto_ -> git pull
+* **_Aggiorno il mio repo locale con l'ultima "versione" di quello remoto_** -> git pull
