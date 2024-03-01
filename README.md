@@ -36,5 +36,6 @@ Se hai fatto tutto bene fino ad ora...
 
 
 
-# Cosa succede se i prof aggiornano il repo mettendo nuovi contenuti?
+# Recuperare repository remoti di altri utenti
+* **_SCARICO IL REPOSITORY DA GITHUB_** -> git clone ***linkdelrepo***
 * **_AGGIORNO IL MIO REPO LOCALE CON L'ULTIMA "VERSIONE" (ULTIMO COMMIT) DEL REPO REMOTO_** -> git pull
