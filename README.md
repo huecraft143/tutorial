@@ -33,3 +33,8 @@ Se hai fatto tutto bene fino ad ora...
 *  username -> username di git
 
 * password -> **Il token recuperato al punto 2**
+
+
+
+# Cosa succede se i prof aggiornano il repo mettendo nuovi contenuti?
+* **_Aggiorno il mio repo locale con l'ultima "versione" di quello remoto_ -> git pull
